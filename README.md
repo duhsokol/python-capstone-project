@@ -1,6 +1,6 @@
 # Battle of Denver Neighborhoods | IBM Data Science Project
 
-Heello, my name is Roman.
+Hello, my name is Roman.
 
 This is my first publisehd project completed in python to date as part of the IBM Data Science Certificate on Coursera. This analysis is focused on clustering Denver neighborhoods based on their rent, crime, and venue characteristics. I hope that it can be a useful tool for someone who is looking to move into this beautiful city and needs a place to start their research and moving process. 
 
